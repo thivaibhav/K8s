@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: myapp-v1
-          image: vaibhav315/vprofile:latest
+          image: vaibhav315/vprofile:v2
           ports:
             - containerPort: 8080  # Port 8080
